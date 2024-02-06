@@ -13,3 +13,12 @@ for num in range(lower, upper + 1):
                break
        else:
            print(num)
+
+
+output:
+Prime numbers between 900 and 1000 are:
+907
+911
+919
+929
+937           
